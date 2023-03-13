@@ -11,6 +11,7 @@ Projetos #boraCodar da Rocketseat
 <th>Name</th>
 <th>Date</th>
 <th>View</th>
+<th>View</th>
 </tr>
 </thead>
 
